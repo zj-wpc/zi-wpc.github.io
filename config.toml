@@ -1,4 +1,0 @@
-baseURL = "http://zijing.me/"
-languageCode = "zh-cn"
-title = "ZJ Blog"
-theme = "hugo-paper"
