@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on ZJ Blog</title>
-    <link>http://zijing.me/categories/</link>
+    <link>http://example.org/categories/</link>
     <description>Recent content in Categories on ZJ Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     
-	<atom:link href="http://zijing.me/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
