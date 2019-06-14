@@ -6,10 +6,19 @@
     <description>Recent content in Posts on ZJ Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 14 Jun 2019 17:44:20 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jun 2019 17:48:54 +0800</lastBuildDate>
     
 	<atom:link href="https://zijing.me/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>New Blog</title>
+      <link>https://zijing.me/posts/new-blog/</link>
+      <pubDate>Fri, 14 Jun 2019 17:48:54 +0800</pubDate>
+      
+      <guid>https://zijing.me/posts/new-blog/</guid>
+      <description>测试阶段 测试一下这个新的 md 编辑器 &amp;gt; 期待这个好用 &amp;gt; 是的坚持一下 * 你好 * 你好 1. 你好 2. 试试看</description>
+    </item>
     
     <item>
       <title>Post at 2019年 6月14日 星期五 17时44分19秒 CST</title>
