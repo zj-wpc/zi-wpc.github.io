@@ -3,17 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://zijing.me/posts/first-post/</loc>
+    <lastmod>2019-06-14T16:43:15+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zijing.me/posts/</loc>
+    <lastmod>2019-06-14T16:43:15+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zijing.me/</loc>
+    <lastmod>2019-06-14T16:43:15+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://zijing.me/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://zijing.me/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://zijing.me/</loc>
     <priority>0</priority>
   </url>
   
